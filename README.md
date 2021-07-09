@@ -1,2 +1,2 @@
-# BXE
-Bitxoe - Buy Sell Anything Using Bitxoe ESCROW
+# BXE Token
+Bitxoe Escrow -Buy Sell Anything Using Bitxoe ESCROW
